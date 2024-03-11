@@ -4,6 +4,8 @@
 
 ## Description
 
+![EZY Attendance Logo](Devs/banner4.png)
+
 EZY Attendance is a sophisticated face recognition-based attendance system with a user-friendly GUI. It allows users to efficiently manage attendance, export data in CSV format, and even send attendance reports via email. Built using Python 3, SQL, Tkinter, and various libraries, EZY Attendance simplifies attendance tracking for organizations of all sizes.
 
 ![EZY Attendance Logo](Devs/menu.png)
