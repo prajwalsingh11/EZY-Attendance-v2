@@ -14,6 +14,10 @@ EZY Attendance is a sophisticated face recognition-based attendance system with 
 
 ![Developers](Devs/devs.png)
 
+##test
+
+![Developers](Devs/test.png)
+
 ##Guide 
 ![Developers](Devs/help.png)
 
